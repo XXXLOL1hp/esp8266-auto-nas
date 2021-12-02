@@ -3,8 +3,8 @@
 
 const char* WIFI_SSID = "YOUR WIFI SSID";
 const char* WIFI_PASS = "YOUS WIFI PASSWORD";
-const char* NIM = "YOUR NIM";
-const char* PASS = "YOUR SIAM PASSWORD";
+const char* NIM = "arsana";
+const char* PASS = "ambon123";
 
 void setup() {
   Serial.begin(9600);
